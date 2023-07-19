@@ -1,0 +1,20 @@
+﻿  Critter1.cpp
+  CritterPoo.cpp
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(11,9): error C3646: 'm_Name': unknown override specifier
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(11,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(12,6): error C2061: syntax error: identifier 'string'
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\CritterPoo.cpp(12,22): error C2661: 'Pet::Pet': no overloaded function takes 2 arguments
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\CritterPoo.cpp(13,21): error C2661: 'Pet::Pet': no overloaded function takes 2 arguments
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\CritterPoo.cpp(14,24): error C2661: 'Pet::Pet': no overloaded function takes 2 arguments
+  Pet.cpp
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(11,9): error C3646: 'm_Name': unknown override specifier
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(11,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(12,6): error C2061: syntax error: identifier 'string'
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.cpp(6,6): error C2511: 'Pet::Pet(std::string,int)': overloaded member function not found in 'Pet'
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(6): message : see declaration of 'Pet'
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.cpp(9,2): error C2597: illegal reference to non-static member 'Pet::m_Hunger'
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.h(10): message : see declaration of 'Pet::m_Hunger'
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.cpp(10,2): error C2065: 'm_Name': undeclared identifier
+C:\Users\montesma\Documents\Personal\Semestre II\ProgramacionII\CritterPoo\Pet.cpp(17,25): error C2065: 'm_Name': undeclared identifier
+  Pokemon.cpp
+  Generating Code...
